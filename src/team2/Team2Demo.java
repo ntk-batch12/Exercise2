@@ -6,6 +6,8 @@ public class Team2Demo {
 		System.out.println("group 2 is the best");
 		
 		System.out.println("Great group");
+		
+		System.out.println("I was here");
 	}
 
 }
