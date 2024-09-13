@@ -8,6 +8,8 @@ public class Team2Demo {
 		System.out.println("Great group");
 		
 		System.out.println("I was here");
+	
+	System.out.println("Happy to be in group2");
 	}
 
 }
